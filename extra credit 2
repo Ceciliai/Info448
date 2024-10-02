@@ -1,0 +1,10 @@
+I have chosen Profile GPU Rendering as my developer option. 
+This option shows the rendering performance of each frame, including the time 
+taken to render and whether it meets the 60fps frame rate target. 
+It is a valuable tool for developers looking to optimize their app’s UI performance, 
+especially when dealing with complex graphics. By using this tool, 
+I can see how long it takes for each frame to render and make necessary 
+adjustments to ensure a smooth user experience. 
+I believe I will use this feature during the course, 
+especially when optimizing UI performance, as it can help identify performance bottlenecks
+in the app and make the required improvements.
